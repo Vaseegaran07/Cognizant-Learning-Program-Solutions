@@ -1,0 +1,15 @@
+.score-box {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 30px auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  max-width: 500px;
+  font-family: Arial, sans-serif;
+}
+.score-box h2 {
+  color: #333;
+}
+.score-box p {
+  font-size: 16px;
+}
